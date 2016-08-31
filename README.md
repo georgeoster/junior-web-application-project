@@ -6,6 +6,8 @@ like the look and feel.
 The assignment was to create a web application with the following functionality:
 
 .jsp connecting to and pulling data from an SQL database
+
 insert, delete, edit, search SQL database from .jsp
+
 login/logout
 
