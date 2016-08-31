@@ -1,0 +1,93 @@
+nav { 
+    text-align:center;
+    color: #990000;
+    width:660px;
+    margin:auto;
+}
+
+nav a {
+    text-decoration: none;
+    font-family: arial;
+    font-size:20px;
+    color:black;  
+}  
+
+nav a:hover {
+    background-color: #cc9900;
+}
+
+nav a:link  {
+    text-decoration: none;
+    color:black;
+}       
+
+nav a:visited {
+    text-decoration: none;
+    color:black
+} 
+
+body {
+    background-image: url("grain.jpg");
+    background-size: cover;
+    background-repeat: repeat-y ;
+}
+
+
+#content{
+    width:650px;
+    margin:auto;
+    z-index:2;
+    padding: 16px;
+    background-color:white;
+    opacity:0.5;
+    text-decoration: none;
+    font-family: arial;
+    font-size:17px;
+    border-radius: 25px;
+}
+
+#footer {
+    z-index: 2;
+    text-decoration: none;
+    text-align:center;
+    font-family: arial;
+    font-size:20px;
+    width:100%;
+    position : fixed;
+    bottom : 0;
+    height : 20px;
+    margin-top : 40px;
+}
+#title{
+    text-decoration:none;
+    text-align: center;
+    font-family: arial;
+    font-size:48px;
+    width:580px;
+    margin:auto;
+}
+
+.table{
+    padding:9px;
+    border-collapse: collapse;
+}
+
+.table th{
+    border-bottom: 1px solid #999900;
+    padding:5px;
+}
+
+.table td{
+    border-bottom: 1px solid #999900; 
+    padding:5px;
+}
+
+.loggedin{
+    position:absolute;
+    top:10px;
+    right: 10px;
+    text-decoration: none;
+    font-family: arial;
+    font-size:20px;
+    color:black;
+}
