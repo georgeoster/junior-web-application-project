@@ -3,7 +3,9 @@ ASSIGNMENT DESCRIPTION:
 A web application for a pretend company.  NOTE: Hardly any attention was paid to layout and I personally don't particularly
 like the look and feel.
 
-The assignment was to create a web application with the following functionality:
+
+
+The assignment was to create an SQL database and a web application with the following functionality:
 
 .jsp connecting to and pulling data from an SQL database
 
