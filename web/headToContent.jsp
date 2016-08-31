@@ -39,7 +39,6 @@
         <a href="./search.jsp">search</a>  |
         <a href="./membersOnly.jsp">members</a>  |
         <a href="./contact.jsp">contact</a>  |
-        <a href="./labs.jsp">labs</a>  |  
         <a href="<%=onOrOffLink%>"><%=onOrOffText%></a>
     </nav>
     <br>
